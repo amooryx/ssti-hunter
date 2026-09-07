@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./banner.svg" alt="ssti-hunter" width="800">
+</div>
+
 # ssti-hunter
 
 > Red team security tool for authorized testing only.
