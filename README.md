@@ -1,10 +1,10 @@
-﻿# ssti-hunter
+# ssti-hunter
 
 > Red team security tool for authorized testing only.
 
 ## Usage
 
-`ash
+```bash
 python ssti_hunter.py --help
 ```
 
